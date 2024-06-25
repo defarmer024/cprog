@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657695517 source:c:\users\dennis\desktop\azel\c++\quizapp\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+

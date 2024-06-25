@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657694508 source:c:\users\dennis\desktop\azel\c++\tiktaktoegame\main.cpp
+	<iostream>
+	<cstdlib>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1628415122 source:c:\users\dennis\desktop\azel\food.cpp
+	"food.h"
+
+1628415122 c:\users\dennis\desktop\azel\food.h
+
+1628416139 source:c:\users\dennis\desktop\azel\headers\food.cpp
+	<iostream>
+	"food.h"
+
+1628416050 c:\users\dennis\desktop\azel\headers\food.h
+
+1628416050 source:c:\users\dennis\desktop\azel\headers\main.cpp
+	<iostream>
+	"food.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628418474 source:c:\users\dennis\desktop\azel\file handler cpp\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
